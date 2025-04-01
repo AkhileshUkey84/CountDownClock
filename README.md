@@ -5,7 +5,7 @@
 
 A feature-rich countdown timer application with MP3 alarm support. Includes ready-to-use executables for Windows (`exe`) and cross-platform (`jar`) versions.
 
-![CountDown Clock UI](./screenshots/image.png)
+![CountDown Clock UI](./screenshots/CountDownClock.png)
 
 ## 🚀 Quick Start (For End Users)
 
